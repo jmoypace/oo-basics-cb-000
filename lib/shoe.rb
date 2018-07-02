@@ -11,4 +11,3 @@ def cobble
 
 end
 end
-shoe.condition = "new"
