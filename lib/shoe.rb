@@ -8,6 +8,6 @@ end
 
 def cobble
   puts "Your shoe is as good as new!"
-
+ shoe.@condition=new
 end
 end
